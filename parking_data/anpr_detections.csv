@@ -1,0 +1,3 @@
+id,plate_number,confidence,detection_time,camera_location,is_emergency,processed
+1,SA9199D,0.75,2025-06-10 02:13:31,,False,False
+2,SA9199D,0.856,2025-06-10 02:13:55,,False,False
