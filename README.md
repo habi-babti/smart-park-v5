@@ -13,7 +13,7 @@ easyocr and ultralytics for ANPR functionality
 
 opencv for image processing
 
-twilio for SMS notifications
+twilio for SMS notifications (not working)
 
 plotly for visualizations
 
